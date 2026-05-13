@@ -1,10 +1,34 @@
-# Projet Data Science – Analyse de données
+# Power BI Project Template
 
-Ce projet contient des notebooks, scripts et résultats de data science.
+Professional template structure for Power BI analytics projects.
 
-## Dossiers :
-- `data/` : données brutes ou transformées
-- `scripts/` : fonctions Python
-- `notebooks/` : explorations avec Jupyter
-- `models/` : modèles sauvegardés
-- `outputs/` : résultats finaux
+## Project Structure
+
+01_Data/
+- Raw and cleaned datasets
+
+02_PowerBI  Files
+- Power BI report files
+
+03_Documentation/
+- DAX notes
+- Business logic
+- Project documentation
+
+04_Exports/
+- PDF exports
+- Screenshots
+- Presentations
+
+05_Scripts/
+- Python scripts
+- SQL scripts
+- NLP scripts
+
+## Purpose
+This template is designed for:
+- Data Analytics
+- Business Intelligence
+- Humanitarian Analytics
+- Social Science Data Projects
+- Dashboard Development
