@@ -10,7 +10,7 @@
 ## Optional
 - Python
 - SQL Server
-- Microsoft Fabric
+- Microsoft Fabric 
 
 ## Python Libraries (Optional)
 - pandas
@@ -21,4 +21,3 @@
 - Power Query
 - DAX
 - Data Modeling
-- Time Intelligence
